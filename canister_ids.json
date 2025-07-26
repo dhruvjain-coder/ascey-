@@ -1,0 +1,41 @@
+{
+  "fxmx_icrc1_index": {
+    "ic": "lfuhg-eaaaa-aaaan-qzxkq-cai"
+  },
+  "fxmx_icrc1_ledger": {
+    "ic": "b7p2k-giaaa-aaaan-qzwta-cai"
+  },
+  "icp_index_canister": {
+    "ic": "ne7xn-waaaa-aaaan-qzpeq-cai"
+  },
+  "icrc1_index_canister": {
+    "ic": "7i7aa-mqaaa-aaaap-akntq-cai"
+  },
+  "icrc1_ledger_canister": {
+    "ic": "7p6gu-biaaa-aaaap-aknta-cai"
+  },
+  "kyc": {
+    "ic": "x2lku-6yaaa-aaaan-qzvia-cai"
+  },
+  "ascey2_frontend": {
+    "ic": "xpm3z-7qaaa-aaaan-qzvlq-cai"
+  },
+  "ascey_backend": {
+    "ic": "zoa6c-riaaa-aaaan-qzmta-cai"
+  },
+  "ascey_frontend": {
+    "ic": "zjbyw-4qaaa-aaaan-qzmtq-cai"
+  },
+  "ascey_frontendd": {
+    "ic": "oczko-uyaaa-aaaaj-azzna-cai"
+  },
+  "tommy_icrc1_index": {
+    "ic": "jv45e-uaaaa-aaaan-qzqza-cai"
+  },
+  "tommy_icrc1_ledger": {
+    "ic": "j47wy-ciaaa-aaaan-qzqyq-cai"
+  },
+  "xrc_mock": {
+    "ic": "est2w-7iaaa-aaaan-qzoxa-cai"
+  }
+}
